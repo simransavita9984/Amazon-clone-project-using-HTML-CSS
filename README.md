@@ -1,4 +1,4 @@
-Amazon Clone Website
+#Amazon Clone Website
 This is a simple Amazon Clone website developed using HTML and CSS. The project aims to replicate the basic design and layout of Amazon's homepage to practice frontend web development skills.
 
 Features
